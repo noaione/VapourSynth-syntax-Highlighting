@@ -3,7 +3,7 @@
 
 ## What's change?
 - Added more function
-- Changed some foreground color and changed background color to white
+- Changed some foreground color to other color and changed background color to white
 - Changed Font size
 - ~~Remove bold~~ nvm, i still leave it there because it looks better
 - Add one more keyword for [Vapoursynth Python Reference](http://www.vapoursynth.com/doc/pythonreference.html)
